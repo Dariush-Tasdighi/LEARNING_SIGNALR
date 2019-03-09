@@ -16,7 +16,7 @@ Install-Package Microsoft.AspNet.SignalR
 
 Install-Package Microsoft.AspNet.SignalR.Sample
 
-Create a Folder: SignalR
+Create a Folder: SignalR (Sample)
 
 Add New Item -> Web -> SignalR -> SignalR Hub Class (v2)
 
